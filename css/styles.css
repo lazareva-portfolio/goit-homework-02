@@ -48,6 +48,7 @@ color: #404BBF;
 }
 
 .header-address {
+    font-style: normal;
 }
 .header-address-list {
 }
@@ -59,10 +60,10 @@ color: #404BBF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-style: normal;
 }
 .header-address-link:hover,
-.header-address-link:active{
+.header-address-link:active,
+.header-address-link:focus{
     color: #404BBF;
 }
 
@@ -134,6 +135,7 @@ h2{
     background-color: #FFFFFF;
 }
 .team-list-item {
+    background-color: #FFFFFF;
 }
 .team-photo {
 }
